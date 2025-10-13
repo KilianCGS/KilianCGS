@@ -6,7 +6,7 @@
 
 
 <div align="center">
- <img src="https://theowoo.github.io/agbg/?shape=rectangle&width=788&height=532&borderWidth=10&borderRadius=10&gradientType=twoTones&hue=125&hueOffset=120&brightness=75&duration=2&hideControl=true">
+ <img src="https://theowoo.github.io/agbg/?shape=rectangle&width=788&height=532&borderWidth=10&borderRadius=10&gradientType=twoTones&hue=125&hueOffset=120&brightness=75&duration=2&hideControl=true"/>
   <img src="geekguy2.png" alt="Example image" />
 </div>
 
