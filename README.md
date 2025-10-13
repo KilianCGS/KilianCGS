@@ -1,4 +1,5 @@
-https://img.shields.io/badge/Hi!-I%C2%B4m%20Kilian-blue?style=plastic
+<img alt="Static Badge" src="https://img.shields.io/badge/Hi!-I%C2%B4m%20Kilian-blue?style=plastic">
+
 
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
