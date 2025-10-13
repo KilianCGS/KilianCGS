@@ -6,7 +6,7 @@
 
 
 <P align= "center"
-<img src= ![Example image](geekguy2.png)>>
+<img src= "![Example image](geekguy2.png)">
 </p>
 
 
