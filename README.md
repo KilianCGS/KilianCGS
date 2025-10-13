@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/YFZg2DYr/geekguy2.png" />
+  <img src="[https://i.ibb.co/YFZg2DYr/geekguy2.png](https://i.ibb.co/YFZg2DYr/geekguy2.png)" />
 </p>
 
 
