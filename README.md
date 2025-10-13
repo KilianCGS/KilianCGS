@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm **Kilian**
 
-<!--
-**KilianCGS/KilianCGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student • 🌍 Explorer • 💡 Always learning something new
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Example Image](geekguy.png)
+
+---
+
+## 🌱 About Me
+
+I’m a curious learner who enjoys building small projects and experimenting with ideas.  
+Right now, I’m exploring a bit of **AI**.  
+
+I like mixing logic with creativity — and I believe every bug has a story to tell 😄  
+
+---
+
+## ⚙️ What I Use
+
+🧩 Everything I get in my hands!
+🖥️ VS Code • GitHub  
+
+---
+
+## 💬 A Thought
+
+> “Keep learning, stay curious, and build things that make you smile. Don´t get frustrated, everything will come anytime!  .”
+
+
+
+
+https://github.com/badges/shields/raw/master/package.json
