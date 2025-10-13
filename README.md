@@ -1,9 +1,9 @@
 <h1 align="center">  👋 Hi, I'm Kilian </h1>
 
-🎓 Student • 🌍 Explorer • 💡 Always learning something new
+<p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-![Example Image](geekguy.png)
+<img align="center"> ![Example Image](geekguy.png)
 
 ---
 
