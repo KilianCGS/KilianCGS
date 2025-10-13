@@ -19,6 +19,7 @@ Right now, I’m exploring a bit of **AI**.
 I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
 
 
+
 <div align="center">
 
 🎧 My YouTube Playlist while working on!
