@@ -25,6 +25,7 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 <h2 align="center">🎧 My YouTube Playlist while working on! </h2>
 
 <div align="center">
+  
 [![Rüfüs Du Sol - Innerbloom (Official Video)](https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU)
 [![ODESZA - A Moment Apart (Official Video)](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI)
 
