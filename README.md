@@ -5,10 +5,9 @@
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-
-![Example image](geekguy2.png)
-
-
+<P align=center>
+<img src= ![Example image](geekguy2.png)>
+</p>
 
 
 <h3 align="center"> 🌱 About Me </h3>
