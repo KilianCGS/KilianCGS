@@ -19,10 +19,15 @@ Right now, I’m exploring a bit of **AI**.
 I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
 
 
-<h2 align="center"> 🎧 My YouTube Playlist </h2>
+<div align="center">
 
-[![My YouTube Playlist](https://img.youtube.com/vi/tL6oQ3pD8rI&t=4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI&t=4s)
-[![My YouTube Playlist](https://img.youtube.com/vi/UZ9puBiIZTU&t=296s/maxresdefault.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU&t=296s)
+🎧 My YouTube Playlist while working on!
+
+[![Rüfüs Du Sol - Innerbloom (Official Video)](https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU)
+[![ODESZA - A Moment Apart (Official Video)](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI)
+
+</div>
+
 
 
 
