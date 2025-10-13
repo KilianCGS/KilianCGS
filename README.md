@@ -18,7 +18,7 @@ Right now, I’m exploring a bit of **AI**.
 
 I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
 
-
+<p align ="center"> --------------------------------------------------------------------------------------------------- </p>
 
 <div align="center">
 
@@ -30,7 +30,7 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 </div>
 
 
-
+<p align ="center"> --------------------------------------------------------------------------------------------------- </p>
 
 <h3 align="center">
 ⚙️ What I Use </h3>
@@ -38,6 +38,9 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 <h4 align="center"> 🧩 Everything I get in my hands!
 🖥️ VS Code • GitHub  
 </h4>
+
+
+<p align ="center"> --------------------------------------------------------------------------------------------------- </p>
 
 <h3 align="center">
 💬 A Thought
