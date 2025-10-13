@@ -20,11 +20,11 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 
 ---
 <h3 align="center">
-⚙️ What I Use
+⚙️ What I Use </h3>
 
-🧩 Everything I get in my hands!
+<h4 align="center"> 🧩 Everything I get in my hands!
 🖥️ VS Code • GitHub  
-</h3>
+</h4>
 ---
 <h3 align="center">
 💬 A Thought
