@@ -1,4 +1,4 @@
-<h2 align="center">  👋 Hi, I'm **Kilian** </h2>
+<h1 align="center">  👋 Hi, I'm Kilian </h1>
 
 🎓 Student • 🌍 Explorer • 💡 Always learning something new
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌱 About Me
+🌱 About Me
 
 I’m a curious learner who enjoys building small projects and experimenting with ideas.  
 Right now, I’m exploring a bit of **AI**.  
@@ -16,16 +16,17 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 
 ---
 
-## ⚙️ What I Use
+⚙️ What I Use
 
 🧩 Everything I get in my hands!
 🖥️ VS Code • GitHub  
 
 ---
 
-## 💬 A Thought
+💬 A Thought
 
-> “Keep learning, stay curious, and build things that make you smile. Don´t get frustrated, everything will come anytime!  .”
+
+“Keep learning, stay curious, and build things that make you smile. Don´t get frustrated, everything will come anytime!”
 
 
 
