@@ -3,7 +3,7 @@
 🎓 Student • 🌍 Explorer • 💡 Always learning something new
 
 
-[Example Image](geekguy.png)
+![Example Image](geekguy.png)
 
 ---
 
