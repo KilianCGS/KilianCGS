@@ -5,8 +5,8 @@
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-<P align= "center" 
-img src= ![Example image](geekguy2.png)>
+<P align= "center"
+<img src= ![Example image](geekguy2.png)>>
 </p>
 
 
