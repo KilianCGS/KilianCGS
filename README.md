@@ -9,7 +9,9 @@
   <img src="geekguy2.png" alt="Example image" />
 </div>
 
-
+<div align="center">
+  <img src="giphy.gif" alt="Example image" />
+</div>
 
 <h3 align="center"> 🌱 About Me </h3>
 
