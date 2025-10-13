@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="![My profile](geekguy2.png)" />
+  <img src="![image alt](geekguy2.png)" />
 </p>
 
 
