@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="![alt text](image-url)" />
+  <img src="![alt text](geekguy.png)" />
 </p>
 
 
