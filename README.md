@@ -37,14 +37,10 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 <h2 aling="center"> Find me on</h2>
 
 
-<a href="https://www.linkedin.com/in/kilian-garc%C3%ADa-santana-9854b11b3/" target="_blank">
-  <img align="center" alt="Kilian's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.instagram.com/corsidar/" target="_blank">
-  <img align="center" alt="Kilian's Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilian-garc%C3%ADa-santana-9854b11b3/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/corsidar/)
 
 
 
 
-https://github.com/badges/shields/raw/master/package.json
+
