@@ -16,9 +16,9 @@
 <h3 align="center"> 🌱 About Me </h3>
 
 <h4 align="center"> I’m a curious learner who enjoys building small projects and experimenting with ideas.  
-Right now, I’m exploring a bit of **AI**.  
+Right now, I’m exploring a bit of AI.  
 
-I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
+I like mixing logic with creativity & magic, and I believe every bug has a story to tell. Mistakes help us grow 😄  </h4>
 
 <p align ="center"> --------------------------------------------------------------------------------------------------- </p>
 
