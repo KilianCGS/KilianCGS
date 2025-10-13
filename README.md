@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://ibb.co/HfdZ7N1J" />
+  <img src="" />
 </p>
 
 
