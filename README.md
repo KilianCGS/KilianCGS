@@ -5,9 +5,9 @@
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-<p align="center">
+
 ![Example image](geekguy2.png)
-</p>
+
 
 
 
