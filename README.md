@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="[Example Image](geekguy.png)" />
+  <img src="![Example Image](geekguy.png)" />
 </p>
 
 
