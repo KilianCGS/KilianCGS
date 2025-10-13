@@ -21,8 +21,8 @@ I like mixing logic with creativity — and I believe every bug has a story to t
 
 <h2 align="center"> 🎧 My YouTube Playlist </h2>
 
-[![My YouTube Playlist][https://img.youtube.com/vi/tL6oQ3pD8rI&t=4s/maxresdefault.jpg](https://www.youtube.com/watch?v=tL6oQ3pD8rI&t=4s)
-[![My YouTube Playlist][https://img.youtube.com/vi/UZ9puBiIZTU&t=296s/maxresdefault.jpg](https://www.youtube.com/watch?v=UZ9puBiIZTU&t=296s)
+[![My YouTube Playlist](https://img.youtube.com/vi/tL6oQ3pD8rI&t=4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI&t=4s)
+[![My YouTube Playlist](https://img.youtube.com/vi/UZ9puBiIZTU&t=296s/maxresdefault.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU&t=296s)
 
 
 
