@@ -2,9 +2,9 @@
 
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
-<p align="center">
+<img align="center">
 ![Example Image](geekguy.png)
-</p>
+
 
 ---
 
