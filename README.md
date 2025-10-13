@@ -5,8 +5,9 @@
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-![Example Image](geekguy.png)
-
+<p align="center">
+  <img src="h[ttp://some_place.com/image.png](https://ibb.co/d0RvhmCF)" />
+</p>
 
 ---
 
