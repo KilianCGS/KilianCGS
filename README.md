@@ -3,7 +3,7 @@
 <p align="center"> 🎓 Student • 🌍 Explorer • 💡 Always learning something new </p>
 
 
-<div align center> ![Example Image](geekguy.png) </div>
+<div align= center> ![Example Image](geekguy.png) </div>
 
 ---
 
