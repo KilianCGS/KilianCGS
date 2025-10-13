@@ -11,12 +11,12 @@
 
 ---
 
-<h3 align="center"> 🌱 About Me
+<h3 align="center"> 🌱 About Me </h3>
 
-I’m a curious learner who enjoys building small projects and experimenting with ideas.  
+<h4 align="center"> I’m a curious learner who enjoys building small projects and experimenting with ideas.  
 Right now, I’m exploring a bit of **AI**.  
 
-I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h3>
+I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
 
 ---
 <h3 align="center">
