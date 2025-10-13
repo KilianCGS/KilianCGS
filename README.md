@@ -19,6 +19,13 @@ Right now, I’m exploring a bit of **AI**.
 I like mixing logic with creativity — and I believe every bug has a story to tell 😄  </h4>
 
 
+<h2 align="center"> 🎧 My YouTube Playlist </h2>
+
+[![My YouTube Playlist](https://www.youtube.com/watch?v=tL6oQ3pD8rI&t=4s)
+[![My YouTube Playlist](https://www.youtube.com/watch?v=UZ9puBiIZTU&t=296s)
+
+
+
 <h3 align="center">
 ⚙️ What I Use </h3>
 
