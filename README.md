@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="" />
+  <img src="![alt text](image-url)" />
 </p>
 
 
