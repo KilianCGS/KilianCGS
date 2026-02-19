@@ -91,7 +91,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kiliangarc%C3%ADasantana/">
+  <a href="https://www.linkedin.com/in/kiliancgs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
