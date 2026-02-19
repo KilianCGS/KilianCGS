@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="MagicGeekGuy.png" alt="Example image" />
+  <img src="FantasyGeekGuy.png" alt="Example image" />
 </div>
 
 <br>
