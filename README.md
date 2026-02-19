@@ -16,7 +16,7 @@
 <h3 align="center"> 🌱 About Me </h3>
 
 <h4 align="center"> I’m a curious learner who enjoys building small projects and experimenting with ideas.  
-Right now, I’m exploring a bit of AI.  
+Right now, I’m exploring a bit of AI and learning how to become better developer in the world around videogames.
 
 I like mixing logic with creativity & magic, and I believe every bug has a story to tell. Mistakes help us grow 😄  </h4>
 
@@ -24,22 +24,23 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 
 
-<h2 align="center">🎧 My YouTube Playlist while working on! </h2>
+<h2 align="center">🎧 My music Playlist while working on! </h2>
 
 <div align="center">
   
 [![Rüfüs Du Sol - Innerbloom (Official Video)](https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU)
 [![ODESZA - A Moment Apart (Official Video)](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI)
-
+[![ODESZA - A Moment Apart (Official Video)](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=kkOZzDtSSII)
+[![ODESZA - A Moment Apart (Official Video)](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=F_Rf-ubc8zQ&t=1974s)
 </div>
 
 
 <p align ="center"> --------------------------------------------------------------------------------------------------- </p>
 
 <h3 align="center">
-⚙️ What I Use </h3>
+⚙️ What do I use? </h3>
 
-<h4 align="center"> 🧩 Everything I get in my hands!
+<h4 align="center"> 🧩 REACT and ANGULAR are the frameworks I am more comfortable with, but i may work with everything I get in my hands! Learning something new is always a pleasure.
 🖥️ VS Code • GitHub  
 </h4>
 
@@ -50,7 +51,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 💬 A Thought
 
 
-“Keep learning, stay curious, and build things that make you smile. Don´t get frustrated, everything will come anytime!”
+"Calm in mind, relentless in challenge. I like to code between mystery and fantasy, turning the unknown into reality."
 
 </h3>
 
