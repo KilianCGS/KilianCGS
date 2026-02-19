@@ -12,17 +12,6 @@
 
 <br>
 
-<div align="center">
- <img 
-  src="MagicGeekGuy.png" 
-  alt="Magic Geek Guy" 
-  style="
-    border: 4px solid #6C63FF;
-    border-radius: 15px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-  " 
-/>
-
 </div>
 
 <br><br>
