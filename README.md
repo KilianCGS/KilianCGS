@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I´m Kilian</h1>
 
 <p align="center">
-🎓 Student • 🌍 Explorer • 💡 Always learning something new
+📝 Student 📝 <br>🌍 Explorer 🌍<br> 🔍 Always learning something new 🔍
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">🌱 About Me</h3>
+<h3 align="center">💻 About Me 💻</h3>
 
 <br>
 
@@ -39,7 +39,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 <br>
 
-<h2 align="center">🎧 My Music Playlist While Working On!</h2>
+<h2 align="center">🎧 My Music Playlist While Working On! 🎧</h2>
 
 <br>
 
@@ -58,7 +58,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 <br>
 
-<h3 align="center">⚙️ What Do I Use?</h3>
+<h3 align="center">⚙️ What Do I Use? ⚙️</h3>
 
 <br>
 
@@ -74,7 +74,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 <br>
 
-<h3 align="center">💬 A Thought</h3>
+<h3 align="center">✏ A Thought ✏</h3> 
 
 <br>
 
