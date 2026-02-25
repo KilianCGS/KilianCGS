@@ -42,24 +42,31 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 <br>
 
 
-  <div align="center">
+<div align="center">
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 20px;
+    justify-content: center;
+  ">
+    
+    <a href="https://www.youtube.com/watch?v=UZ9puBiIZTU">
+      <img src="https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg" width="320">
+    </a>
 
-<a href="https://www.youtube.com/watch?v=UZ9puBiIZTU">
-  <img src="https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg" width="250">
-</a>
+    <a href="https://www.youtube.com/watch?v=tL6oQ3pD8rI">
+      <img src="https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg" width="320">
+    </a>
 
-<a href="https://www.youtube.com/watch?v=tL6oQ3pD8rI">
-  <img src="https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg" width="250">
-</a>
+    <a href="https://www.youtube.com/watch?v=F_Rf-ubc8zQ">
+      <img src="https://img.youtube.com/vi/F_Rf-ubc8zQ/0.jpg" width="320">
+    </a>
 
-<a href="https://www.youtube.com/watch?v=F_Rf-ubc8zQ">
-  <img src="https://img.youtube.com/vi/F_Rf-ubc8zQ/0.jpg" width="250">
-</a>
+    <a href="https://www.youtube.com/watch?v=kkOZzDtSSII">
+      <img src="https://img.youtube.com/vi/kkOZzDtSSII/0.jpg" width="320">
+    </a>
 
-<a href="https://www.youtube.com/watch?v=kkOZzDtSSII">
-  <img src="https://img.youtube.com/vi/kkOZzDtSSII/0.jpg" width="250">
-</a>
-
+  </div>
 </div>
 
 
