@@ -108,9 +108,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/corsidar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
 </p>
 
 <br><br>
