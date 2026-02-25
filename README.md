@@ -1,13 +1,13 @@
-<h1 align="center">Hi! I´m Kilian</h1>
+<h1 align="center">Hi! I´m Kilian, a Frontend Developer</h1>
 
 <p align="center">
-📝 Student 📝 <br>🌍 Explorer 🌍<br> 🔍 Always learning something new 🔍
+ <br>🌍 Explorer 🌍<br> 🔍 Always learning something new 🔍
 </p>
 
 <br>
 
 <div align="center">
-  <img src="FantasyGeekGuy.png" alt="Example image" />
+  <img src="FantasyGeekGuy.png" alt="Example image" width="768" height="512" />
 </div>
 
 <br>
