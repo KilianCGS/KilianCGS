@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="FantasyGeekGuy.png" alt="Example image" width="768" height="512" />
+  <img src="FantasyGeekGuy.png" alt="Example image" width="538" height="358" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 <br>
 
-<div align="center">
+<div align="center" width="538" height="358">
   
 [![Innerbloom](https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU)
 [![A Moment Apart](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI)
