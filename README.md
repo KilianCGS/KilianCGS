@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="FantasyGeekGuy.png" alt="Example image" width="538" height="358" />
+  <img src="FantasyGeekGuy.png" alt="Example image" width="638" height="418" />
 </div>
 
 <br>
@@ -41,14 +41,27 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
 
 <br>
 
-<div align="center" width="538" height="358">
-  
-[![Innerbloom](https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg)](https://www.youtube.com/watch?v=UZ9puBiIZTU)
-[![A Moment Apart](https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg)](https://www.youtube.com/watch?v=tL6oQ3pD8rI)
-[![Fantasy music](https://img.youtube.com/vi/F_Rf-ubc8zQ/0.jpg)](https://www.youtube.com/watch?v=F_Rf-ubc8zQ)
-[![Noir Jazz](https://img.youtube.com/vi/kkOZzDtSSII/0.jpg)](https://www.youtube.com/watch?v=kkOZzDtSSII)
+
+  <div align="center">
+
+<a href="https://www.youtube.com/watch?v=UZ9puBiIZTU">
+  <img src="https://img.youtube.com/vi/UZ9puBiIZTU/0.jpg" width="250">
+</a>
+
+<a href="https://www.youtube.com/watch?v=tL6oQ3pD8rI">
+  <img src="https://img.youtube.com/vi/tL6oQ3pD8rI/0.jpg" width="250">
+</a>
+
+<a href="https://www.youtube.com/watch?v=F_Rf-ubc8zQ">
+  <img src="https://img.youtube.com/vi/F_Rf-ubc8zQ/0.jpg" width="250">
+</a>
+
+<a href="https://www.youtube.com/watch?v=kkOZzDtSSII">
+  <img src="https://img.youtube.com/vi/kkOZzDtSSII/0.jpg" width="250">
+</a>
 
 </div>
+
 
 <br><br>
 
