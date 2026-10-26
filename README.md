@@ -56,9 +56,7 @@ I like mixing logic with creativity & magic, and I believe every bug has a story
   <img src="https://img.youtube.com/vi/F_Rf-ubc8zQ/0.jpg" width="280">
 </a>
 
-<a href="https://www.youtube.com/watch?v=kkOZzDtSSII">
-  <img src="https://img.youtube.com/vi/kkOZzDtSSII/0.jpg" width="280">
-</a>
+
 
 </div>
 
